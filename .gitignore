@@ -225,7 +225,7 @@ $RECYCLE.BIN/
 
 ## Database ##
 db.properties
-application.properties
+src/main/resources/properties/application.properties
 
 # Ignore Gradle GUI config
 gradle-app.setting
