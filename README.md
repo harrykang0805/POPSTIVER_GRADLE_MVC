@@ -1,9 +1,10 @@
 # 🎆 POPSTIVER - 축제와 팝업스토어 정보를 한곳에서
-### NaverCloud Devops 10rd : 3 TEAM
 
 <p align="center">
   <br>
-  <img src="./readme_asset/common/popstiver_logo.png">
+  
+![스크린샷 2024-10-23 120409](https://github.com/user-attachments/assets/1dc03350-3bd4-49ca-b7bc-17cb89b23da9)
+
   <br>
 </p>
 
@@ -77,39 +78,19 @@
 
 <br>
 
-## 📅 개발 기간 
-- #### 2024.06.03(월) ~ 2024.07.05(금)
+## ERD
 
-- #### 1주차 : 프로젝트 계획, 상세분석
-- #### 2주차 : UI, DB 구조 설계, 백엔드 개발시작
-- #### 3주차 : DB연결 및 기능구현, 단위테스트
-- #### 4주차 : 프로젝트 기능별 병합과 정리
-- #### 5주차 : 불용코드 제거, 프로젝트 최종테스트
+![스크린샷 2024-10-23 120301](https://github.com/user-attachments/assets/2a7844ee-2582-467e-801d-32f992eefbf8)
+
+
+## 초기 UI 구현
+
+![스크린샷 2024-10-23 120516](https://github.com/user-attachments/assets/b195240e-c2cc-4377-9b2d-40dc8ef95d51)
+
+
 
 <br>
 
-## 📜 라이센스
-MIT License
-
-Copyright (c) 2021 Othneil Drew
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
 <!-- Stack Icon Refernces -->
